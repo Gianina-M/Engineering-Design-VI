@@ -20,7 +20,7 @@
 
 ---
 
-`insert code here`
+`cout << "Hello World" << endl;`
 
 [Here is a silly Instagram post I saw the other day](https://www.instagram.com/p/DFOVHjpPBb9/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
