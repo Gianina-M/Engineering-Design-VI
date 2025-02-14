@@ -2,13 +2,12 @@
 ## EE 322-A
 ### Written by Gianina Maldonado  
 
-**Fun Fact**
-> My birthday is mentioned in the song September by Earth, Wind & Fire
+> "Impossible is just an opinion" </br> -Paolo Coelho
 
---- 
+---
 
-**Labs (links coming soon)**
-* Lab 1: GHDL and GTKWave
+**Labs**
+* Lab 1: [GHDL and GTKWave](https://github.com/Gianina-M/Engineering-Design-VI/blob/7ac966107967df0016c46c5718dc690231c86f63/Labs/Lab%201.md)
 * Lab 2: Command Line
 * Lab 3: Python
 * Lab 4: Django and Flask
@@ -21,9 +20,9 @@
 
 ---
 
-Assignments
-1. [**Team Site**](https://sites.google.com/stevens.edu/ee-322/home)
-2. [**Needs Analysis**](https://sites.google.com/stevens.edu/ee-322/assignment-2)
+**Assignments**
+1. [Team Site](https://sites.google.com/stevens.edu/ee-322/home)
+2. [Needs Analysis](https://sites.google.com/stevens.edu/ee-322/assignment-2)
    
 ---
 
