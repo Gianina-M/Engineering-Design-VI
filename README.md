@@ -2,7 +2,7 @@
 ## EE 322-A
 ### Written by Gianina Maldonado  
 
-> "Impossible is just an opinion" </br> -Paolo Coelho
+> "Impossible is just an opinion." </br> -Paulo Coelho
 
 ---
 
