@@ -2,8 +2,6 @@
 ## EE 322-A
 ### Written by Gianina Maldonado  
 
-[**Team Site**](https://sites.google.com/stevens.edu/ee-322/home)
-
 **Fun Fact**
 > My birthday is mentioned in the song September by Earth, Wind & Fire
 
@@ -23,10 +21,10 @@
 
 ---
 
-1. I failed one class last semester (EE 348) :[
-2. I received two A minuses last semester :]
-3. I am in my third year of college
-
+Assignments
+1. [**Team Site**](https://sites.google.com/stevens.edu/ee-322/home)
+2. [**Needs Analysis**](https://sites.google.com/stevens.edu/ee-322/assignment-2)
+   
 ---
 
 `cout << "Hello World" << endl;`
