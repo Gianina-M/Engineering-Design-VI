@@ -27,12 +27,35 @@ gtkwave ha.vcd
 
 **Results**
 
-![test1](https://github.com/user-attachments/assets/a96ecd18-028d-42f6-84aa-1d902eb75595)
-
-![test2](https://github.com/user-attachments/assets/265ffcda-b788-4141-a589-c28157a6e840)
-
-![test3](https://github.com/user-attachments/assets/af9945f0-0111-4196-846c-b12529af1665)
-
-![test4](https://github.com/user-attachments/assets/d9e3e816-8052-4ed2-b36b-b106b682ddca)
-
 ![test5](https://github.com/user-attachments/assets/5bd9641f-6227-4433-b400-0344f0116dad)
+
+</br>
+
+## SR Flip Flop Example
+
+**VHDL Entity**
+
+![Screenshot 2025-02-14 210247](https://github.com/user-attachments/assets/06190210-edf8-4d8a-b647-54e0cf33748f)
+
+</br>
+
+**Testbench**
+
+![Screenshot 2025-02-14 210436](https://github.com/user-attachments/assets/c2677331-68ef-4223-a2cc-5100b94ee50f)
+
+</br>
+
+**Terminal Code**
+```
+gdhl -s SRFF.vhdl SRFF_tb.vhdl
+ghdl -a SRFF.vhdl SRFF_tb.vhdl
+ghdl -e SRFF_tb
+ghdl -r SRFF_tb --vcd=SRFF.vcd 
+gtkwave SRFF.vcd
+```
+
+</br>
+
+**Results**
+
+![Screenshot 2025-02-14 211434](https://github.com/user-attachments/assets/ee0de70a-3347-4d1a-853d-cd62dc86fe62)
