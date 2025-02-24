@@ -14,27 +14,36 @@
 
 ### python3 datetime_example.py
 
-![datetime](https://github.com/user-attachments/assets/14ce741f-1500-4aab-bcd4-a616a3c5d52e)
+![datetime](https://github.com/user-attachments/assets/aacf4509-7ff8-49ac-91d0-68017f528ed5)
 
 ### python3 time_example.py
 
+![time_example](https://github.com/user-attachments/assets/7c6522cf-8349-4f1e-944d-6e17ae3bcf5b)
 
 ### python3 sun.py "New York"
 
+![sun_py](https://github.com/user-attachments/assets/8b54f26d-12c1-4108-a7a3-e374389a4d50)
 
 ### python3 moon.py
 
+![moon_py](https://github.com/user-attachments/assets/d972a823-0221-474e-b529-9a6dcb49eac4)
 
 ### python3 coordinates.py "Samuel C. Williams Library"
 
+![coords](https://github.com/user-attachments/assets/a7a4df5c-adcd-43be-a828-d8e26354b78c)
 
 ### python3 address.py "40.74480675, -74.02532861159351"
 
+![address](https://github.com/user-attachments/assets/7d47245b-73c4-41e0-b975-57083c73760a)
 
 ### python3 cpu.py
 
+![cpu](https://github.com/user-attachments/assets/bf2b088f-f493-4f17-b1ea-699b58f3a178)
 
 ### python3 battery.py
 
+![battery](https://github.com/user-attachments/assets/2c03291b-258a-45e5-8215-4e70ff8dcb68)
 
 ### python3 documentstats.py document.txt
+
+![documenstats](https://github.com/user-attachments/assets/660db4ce-3247-4db7-9f50-31df6e71151a)
