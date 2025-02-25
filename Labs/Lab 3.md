@@ -1,4 +1,4 @@
-## Lab 3 — Python
+# Lab 3 — Python
 
 ### cd iot/cd *3
 
