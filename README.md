@@ -25,6 +25,14 @@
 2. [Needs Analysis](https://sites.google.com/stevens.edu/ee-322/assignment-2)
 3. [Problem Formulation](https://sites.google.com/stevens.edu/ee-322/assignments/assignment-3)
 4. [Solution Development](https://sites.google.com/stevens.edu/ee-322/assignments/assignment-4)
+5. [Intellectual Properties](https://sites.google.com/stevens.edu/ee-322/assignments/assignment-5)
+6. [Abstraction & Modeling](https://sites.google.com/stevens.edu/ee-322/assignments/assignment-6)
+7. [Synthesis](https://sites.google.com/stevens.edu/ee-322/assignments/assignment-7)
+8. [Ethical Studies: Part 1](https://sites.google.com/stevens.edu/ee-322/assignments/assignment-8)
+9. [Ethical Studies: Part 2](https://sites.google.com/stevens.edu/ee-322/assignments/assignment-9)
+10. [Design Analysis](https://sites.google.com/stevens.edu/ee-322/assignments/assignment-10)
+11. [Design Diagrams](https://sites.google.com/stevens.edu/ee-322/assignments/assignment-11-1)
+12. [Gantt Chart](https://sites.google.com/stevens.edu/ee-322/assignments/assignment-11-2)
    
 ---
 
