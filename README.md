@@ -10,7 +10,7 @@
 * Lab 1: [GHDL and GTKWave](https://github.com/Gianina-M/Engineering-Design-VI/blob/91bcdde202cd15d1d76fd7ad26aec487efc7bc54/Labs/Lab%201.md)
 * Lab 2: [Command Line](https://github.com/Gianina-M/Engineering-Design-VI/blob/2eb3600655318097c56464a8b54b7b05d3434587/Labs/Lab%202.md)
 * Lab 3: [Python](https://github.com/Gianina-M/Engineering-Design-VI/blob/20bb08a3cb64acea404eb412f49de59afa8a9d7a/Labs/Lab%203.md)
-* Lab 4: Django and Flask
+* Lab 4: [Django and Flask](https://github.com/Gianina-M/Engineering-Design-VI/blob/9b716e0dc0b5574d0a316c492ada7c50e9150204/Labs/Lab%204.md)
 * Lab 5: Paho-MQTT
 * Lab 6: Node.js and Pystache
 * Lab 7: ThingSpeak and Google Sheets
