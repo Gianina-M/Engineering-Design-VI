@@ -6,7 +6,7 @@
 </br>
 
 ### Django REST Project: mycpu
-![Screenshot (754)](https://github.com/user-attachments/assets/64566da5-5903-4204-a548-e7fc3b14acc3)
+![Screenshot (756)](https://github.com/user-attachments/assets/3996010c-046a-4a3f-b825-07c2bc5301bf)
 
 </br>
 
