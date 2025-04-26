@@ -13,7 +13,7 @@
 * Lab 4: [Django and Flask](https://github.com/Gianina-M/Engineering-Design-VI/blob/9b716e0dc0b5574d0a316c492ada7c50e9150204/Labs/Lab%204.md)
 * Lab 5: [Paho-MQTT](https://github.com/Gianina-M/Engineering-Design-VI/blob/166083668090a4d79c135dee58e8ddbbb57ffd75/Labs/Lab%205.md)
 * Lab 6: [Node.js and Pystache](https://github.com/Gianina-M/Engineering-Design-VI/blob/166083668090a4d79c135dee58e8ddbbb57ffd75/Labs/Lab%206.md)
-* Lab 7: ThingSpeak and Google Sheets
+* Lab 7: [ThingSpeak and Google Sheets](https://github.com/Gianina-M/Engineering-Design-VI/blob/9de2d37b6a7603e6e70840d763ca321ba7edb405/Labs/Lab%207.md)
 * Lab 8: Data Analysis
 * Lab 9: YANG
 * Lab 10: Blockchain
