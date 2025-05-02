@@ -16,7 +16,7 @@
 * Lab 7: [ThingSpeak and Google Sheets](https://github.com/Gianina-M/Engineering-Design-VI/blob/9de2d37b6a7603e6e70840d763ca321ba7edb405/Labs/Lab%207.md)
 * Lab 8: [Data Analysis](https://github.com/Gianina-M/Engineering-Design-VI/blob/158767d088d04bf86897394d014f088b9c453f43/Labs/Lab%208.md)
 * Lab 9: [YANG](https://github.com/Gianina-M/Engineering-Design-VI/blob/6f8ff12abb877ff359fbd4ce452ed50c2e3b2a1a/Labs/Lab%209.md)
-* Lab 10: Blockchain
+* Lab 10: [Blockchain](https://github.com/Gianina-M/Engineering-Design-VI/blob/fad567545624b73c7807a144aeb04eb996dcf8ed/Labs/Lab%2010.md)
 
 ---
 
