@@ -31,8 +31,9 @@
 8. [Ethical Studies: Part 1](https://sites.google.com/stevens.edu/ee-322/assignments/assignment-8)
 9. [Ethical Studies: Part 2](https://sites.google.com/stevens.edu/ee-322/assignments/assignment-9)
 10. [Design Analysis](https://sites.google.com/stevens.edu/ee-322/assignments/assignment-10)
-11. [Design Diagrams](https://sites.google.com/stevens.edu/ee-322/assignments/assignment-11-1)
-12. [Gantt Chart](https://sites.google.com/stevens.edu/ee-322/assignments/assignment-11-2)
+11. [Design Diagrams](https://sites.google.com/stevens.edu/ee-322/assignments/assignment-11)
+12. [Gantt Chart](https://sites.google.com/stevens.edu/ee-322/assignments/assignment-11)
+13. Senior Design Plan
    
 ---
 
