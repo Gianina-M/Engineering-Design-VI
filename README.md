@@ -33,7 +33,7 @@
 10. [Design Analysis](https://sites.google.com/stevens.edu/ee-322/assignments/assignment-10)
 11. [Design Diagrams](https://sites.google.com/stevens.edu/ee-322/assignments/assignment-11)
 12. [Gantt Chart](https://sites.google.com/stevens.edu/ee-322/assignments/assignment-11)
-13. Senior Design Plan
+13. [Senior Design Plan](https://sites.google.com/stevens.edu/ee-322/assignments/assignment-11)
    
 ---
 
